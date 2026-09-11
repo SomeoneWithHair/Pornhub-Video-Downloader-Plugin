@@ -12,6 +12,5 @@ Pornhub视频下载Chrome插件
 url地址栏打开    chrome://extensions/
 ![image](./img/usage.png)
 
-### chrome内核的浏览器（例如360,360极速这类浏览器）
-下载crx后拖入浏览器即可。
+### chrome内核的浏览器（例如
 
